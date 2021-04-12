@@ -10,6 +10,7 @@ public class proyecto {
 
 		System.out.println("proyectos");
 		System.out.println("proyectos1");
+		System.out.println("proyectos2");
 		
 		
 	}
