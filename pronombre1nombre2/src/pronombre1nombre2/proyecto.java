@@ -9,6 +9,7 @@ public class proyecto {
 		// TODO Auto-generated method stub
 
 		System.out.println("proyectos");
+		System.out.println("proyectos1");
 		
 		
 	}
