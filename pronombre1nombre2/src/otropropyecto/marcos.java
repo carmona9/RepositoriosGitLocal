@@ -10,7 +10,7 @@ public class marcos {
 		// TODO Auto-generated method stub
 
 		System.out.println("proyecto6");
-		
+		System.out.println("ayudando");
 	}
 
 }
